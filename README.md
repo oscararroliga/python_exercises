@@ -17,7 +17,7 @@ To use the exercises in this repository, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/oscararroliga/python_exercises)
 
 
 2. Make sure you have Python installed on your machine. You can download Python from the official Python website: https://www.python.org/downloads/
